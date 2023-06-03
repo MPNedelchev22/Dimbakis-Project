@@ -1,0 +1,46 @@
+body{
+    background: url(https://cdn.discordapp.com/attachments/1104031821634732115/1114243888794845184/gettyimages-1168361504-web-5.png) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'IBM Plex Mono', monospace;
+
+}
+h1{
+    color:black;
+    font-size: 50px;
+}
+h3{
+    color:black;
+    font-size: 18px;
+}
+.container{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 100px 0;
+}
+.btn {
+    font-size: 1.2rem;
+    padding: 1rem 2.5rem;
+    border: none;
+    outline: none;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    background-color: rgb(14, 14, 26);
+    color: rgb(234, 234, 234);
+    font-weight: 700;
+    transition: 0.6s;
+  }
+  
+  .btn:active {
+    scale: 0.92;
+  }
+  
+  .btn:hover {
+    background: rgb(2,29,78);
+    background: linear-gradient(270deg, rgba(85, 94, 112, 0.681) 0%, rgba(37, 44, 44, 0.873) 60%);
+    color: rgb(255, 255, 255);
+  }
+  
+
+
+
