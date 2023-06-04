@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(6, 22, 65);
+    background-color: rgb(255, 255, 255);
 }
 html {
     scroll-behavior: smooth;
@@ -16,13 +16,9 @@ html {
 .main{
     height: 13vh;
     width: 100vw;
-    background-color: #000000;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-}
-.secondary{
-    
 }
 #text{
     position: relative;
@@ -34,9 +30,11 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 40px;
+    padding-top: 25px;
+    padding-bottom: 15px;
     padding-left: 10%;
     padding-right: 10%;
+    background-color: #333;
 }
 .logo{
     color: aliceblue;
@@ -55,7 +53,7 @@ nav ul li a{
     font-weight: bold;
 }
 nav ul li a:hover{
-    color: #000000;
+    color: #969696;
     transition: .3s;
 }
 .cards-section{
