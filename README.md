@@ -7,7 +7,7 @@
 <p> We are a young organisation trying to show the world the benefits of robotics in our future space exploration.</b></p>
 <hr>
 <h2> 📷Screenshots</h2>
-<img src="images/Screenshot (384).png" alt = "screenshot">
+<img src="\images\Screenshot (384).png" alt = "screenshot">
 <hr>
 <h2> 🖥️Technologies </h2>
 <h3> Used applications for creating the design:</h3>
@@ -35,7 +35,7 @@
 <hr>
 <h2 align = "center">🧒 Our Team</h2>
  <a href = "https://github.com/MPNedelchev22"> Milan Nedelchev </a> [Scrum trainer]<br>
- <a href = "https://github.com/SKDimitrov22"> Stiliqn Dimitrov </a> [Back-end Developer]<br>
+ <a href = "https://github.com/SKDimitrov22"> Stiliqn Dimitrov </a> [Front-end Developer]<br>
  <a href = "https://github.com/KKAtanasova22"> Dimitar Kostadinov </a> [Front-end Developer]<br>
  <a href = "https://github.com/TSMadzharov21"> Kalina Atanasova </a> [Designer]<br>
 
