@@ -7,7 +7,7 @@
 <p> We are a young organisation trying to show the world the benefits of robotics in our future space exploration.</b></p>
 <hr>
 <h2> 📷Screenshots</h2>
-<img src="\images\Screenshot (384).png" alt = "screenshot">
+<img src="images\Screenshot (384).png" alt = "screenshot">
 <hr>
 <h2> 🖥️Technologies </h2>
 <h3> Used applications for creating the design:</h3>
