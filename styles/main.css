@@ -1,6 +1,7 @@
 html {
     scroll-behavior: smooth;
-    overflow: hidden;
+    overflow-x:hidden;
+    overflow-y: scroll;
     height: 1000px;
   }
 *{
@@ -21,7 +22,7 @@ html {
 }
 #heading1{
     position: relative;
-    top: 150px;
+    top: -150px;
     
     text-align: center;
     font-size: 40px;
@@ -36,7 +37,7 @@ html {
 #ThirdT{
     position: relative;
     top: -100px;
-    width: 1400px;
+    width: 1200px;
         
     text-align: left;
     font-size: 20px;
@@ -50,14 +51,14 @@ html {
 }
 #SecondT{
     position: relative;
-    top: -50px;
-    width: 1400px;
+    top: -150px;
+    width: 1200px;
     height: auto;
     
     text-align: left;
     font-size: 20px;
     
-    margin-top: -20px;
+    margin-top: 60px;
     margin-right: 250px;
     margin-left: 30px;
 
@@ -66,8 +67,8 @@ html {
     }
     #FirstT{
         position: relative;
-        top: -15px;
-        width: 1400px;
+        top: 10px;
+        width: 1200px;
             
         text-align: left;
         font-size: 20px;
@@ -83,7 +84,8 @@ html {
     .HeadingT{
         position: relative;
         margin-left: 30px;
-        margin-top: 15px;
+        margin-top: 0px;
+        top: 35px;
         font-family: 'Barlow', sans-serif;
         font-family: 'Poppins', sans-serif;
     }
@@ -91,18 +93,19 @@ html {
         position: relative;
         top: -20px;
         margin-left: 30px;
-        margin-top: 0px;
+        margin-top: -100px;
         font-family: 'Barlow', sans-serif;
         font-family: 'Poppins', sans-serif;
     }
     
     hr{
-    margin-top: 150px;
+    margin-top: -150px;
 }
 nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    position: relative;
     
     padding-top: 45px;
     padding-left: 10%;
@@ -110,20 +113,29 @@ nav{
     
     background-color: #333;
 
+    top: -300px;
+    margin-top: 30px;
+
 }
-.logo{
-    color: aliceblue;
-    font-size: 28px;
-    font-family: 'Barlow', sans-serif;
-    font-family: 'Poppins', sans-serif
+#navLogo{
+    height: 200px;
+    width: 200px;
+    position: relative;
+
+    top: 50px;
+    margin-top: 150px;
 }
+
 nav ul li{
         list-style-type: none;
         display: inline-block;
         padding: 10px 20px;
+        font-size: 25px;
         
         align-items: center;
         justify-content: space-between;
+
+        margin-left: 250px;
 }
 nav ul li a{
     color: rgb(255, 255, 255);
@@ -139,9 +151,22 @@ nav ul li a:hover{
 }
 .img1{
     position: relative;
-    top:0px;
-    margin-left: 100px;
-    margin-top: -100px;
+    top:-80px;
+    
+    margin-left: -150px;
+    margin-top: -75px;
+    
     height: 200px;
+    width: 355px;
     left:1500px;
+}
+#img2{
+    position: relative;
+    top: 250px;
+   
+    margin-left: -150px;
+    margin-top: -75px;
+   
+    height: 200px;
+    left:1288px;
 }
