@@ -140,9 +140,11 @@ nav ul li a:hover{
         transition: .3s;
     }
     .Heading1{
+        position: relative;
         font-family: 'Barlow', sans-serif;
         font-family: 'Poppins', sans-serif;
         font-size: 30px;
+        top: 20px;
     }
     button{
         font-family: 'Barlow', sans-serif;
