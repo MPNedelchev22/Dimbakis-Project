@@ -1,6 +1,6 @@
 <h1 align = "center">Dimbakis</h1>
 <p align="center">
-<img src="images/logo1.jpg" alt = "logo" width = 300px height = 350px>
+<img src="images/logo1.jpg" alt = "logo" width = 430px height = 400px>
 </p>
 <hr>
 <h2> 📰About</h2>
